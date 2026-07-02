@@ -30,7 +30,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan program di komputer Anda:
 
 Clone Repositori ini:
 
-git clone [https://github.com/USERNAME-ANDA/daily-habit-tracker.git](https://github.com/USERNAME-ANDA/daily-habit-tracker.git)
+git clone [https://github.com/USERNAME-ANDA/daily-habit-tracker.git](https://github.com/frihantara/daily-habit-tracker.git)
 cd daily-habit-tracker
 
 
